@@ -4,6 +4,13 @@
     </h1>
 </div>
 
+
+Hi there!! My name is Jack, and I am a Cybersecurity Student at the University Wisconsin, Whitewater. Enjoy! 
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark" alt="Jack's GitHub Stats"/>
+</div>
+
+Connect with me on Linkedin!
 <div align="center">
     <!-- Replace href with your links -->
     <a href="https://www.linkedin.com/in/jack-vopal-737a00290/">
