@@ -5,11 +5,7 @@
 </div>
 
 
-Hi there!! My name is Jack, and I am a Cybersecurity Student at the University Wisconsin, Whitewater. Enjoy! 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark" alt="Jack's GitHub Stats"/>
-</div>
-
+Hi there!! My name is Jack, and I am a Cybersecurity Student at the University Wisconsin, Whitewater. 
 Connect with me on Linkedin!
 <div align="center">
     <!-- Replace href with your links -->
