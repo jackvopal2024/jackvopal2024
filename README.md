@@ -9,5 +9,5 @@ Welcome!! My name is Jack, and I am a Cybersecurity Student in Milwaukee. For no
 - 🔐 I’m currently stuyding systems and cybersecurity at the University of Wisconsin Whitewater
 - 💻 My main languages are currently C++ and C
 - 📆 I'm currently a Sophomore and hope to graduate in 2027 
-- 🎸 In my free type I like to play guitar or piano
+- 🎸 In my free time I like to play the guitar or piano!
   
